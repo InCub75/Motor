@@ -1,0 +1,21 @@
+[DesignatorManager]
+LogicalDesignator0=U?
+LogicalPartID0=1
+DocumentName0=MotorDrv.SchDoc
+ChannelName0=Motor1
+UniqueID0=\IGLVQGYX\ODSVBCTS
+PhysicalDesignator0=U?B
+PhysicalDesignatorLocked0=1
+LogicalDesignator1=U?
+LogicalPartID1=1
+DocumentName1=MotorDrv.SchDoc
+ChannelName1=Motor2
+UniqueID1=\UUXWVINY\ODSVBCTS
+PhysicalDesignator1=U?C
+PhysicalDesignatorLocked1=1
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
